@@ -2,9 +2,6 @@
   
   var isSameTree = function(p, q) {
    /*
-    let q = root || if head1 >= null
-    let p = head1 || if head2 <= null
-};
 */
     
     
