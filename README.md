@@ -1,5 +1,5 @@
 # Same-Tree---a-few-solutions
-My solutions for the Leetcode challenge: "Same Tree"
+My solution for the Leetcode challenge: "Same Tree"
 
 
 Given the roots of two binary trees p and q, write a function to check if they are the same or not.
